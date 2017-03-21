@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+    background: url(https://www.crowell.com/files/images/bio_bg_wadc.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}	
+}
+.navbar {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+h1 {
+	text-transform: uppercase;
+
+}
+h4 {
+	color: navy;
+}
+.socialmedia {
+	text-align: left;
+}
+.subtitles {
+	text-align: left;
+}
+.workexperience {
+	text-align: left;
+}
+.education {
+	text-align: left;
+}
+.list {
+	text-indent: 50px;
+}
+.image {
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
